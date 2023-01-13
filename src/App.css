@@ -100,7 +100,7 @@ header li a:hover {
 
 .slider_img img {
   object-fit: cover;
-  height: 100vh;
+  /* height: 100vh; */
 }
 
 .festival_section {
