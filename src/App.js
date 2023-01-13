@@ -5,6 +5,7 @@ import React from 'react';
 
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import './Media.css'
 
 import { Routes, Route } from "react-router-dom"
 import Home from "./Home"
@@ -12,6 +13,7 @@ import About from "./About"
 import Gallery from './Gallery';
 import Blog from './Blog';
 import Contact from './Contact';
+// import './media.css';
 function App() {
   return (
     <>

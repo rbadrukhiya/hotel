@@ -240,10 +240,10 @@ header li a:hover {
   transition: 0.5s;
 }
 
-.ant-back-top {
-  right: 9%;
-  top: 85%
-}
+/* .ant-back-top { */
+  /* right: 9%; */
+  /* top: 85% */
+/* } */
 
 .ant-back-top-content {
   background-color: #00e0c6;  
