@@ -5,7 +5,7 @@ function Happy() {
         <>
             <div className="happy  d-none d-sm-block">
                 <Container>
-                    <Row className=" d-flex justify-content-between align-items-center"  >
+                    <Row className=" d-flex justify-content-between align-items-center" xs={1} sm={2} md={1} lg={4} xl={4} xxl={4}  >
                         <Col className="col-auto text-center">
                             <div className="p-box-1">
                                 <div className="p-icon text-center mb-4">

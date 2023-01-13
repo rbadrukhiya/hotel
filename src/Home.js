@@ -8,7 +8,7 @@ import Footer from './footer';
 import Review from './review';
 import Fixed from './fixed';
 import Popular from './popular';
-// import Happy from './happy';
+import Happy from './happy';
 import Copy from './copyright';
 
 function Home() {
