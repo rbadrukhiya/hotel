@@ -1,9 +1,16 @@
 
-@media screen and (max-width:400px) {
+@media screen and (max-width:300px) {
     .ant-back-top
     {
         right: 25%!important;
-        top: 75%!important;
+        top: 70%!important;
+    }
+}
+@media screen and (max-width:400px) {
+    .ant-back-top
+    {
+        right: 20%!important;
+        top: 70%!important;
     }
 }
 @media screen and (max-width:567px) {
