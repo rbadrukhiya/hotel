@@ -72,20 +72,20 @@ function Header() {
 
                   </ul> 
                 </li> */}
-                <li><a href="/gallery" target='_blank' className='me-5'>GALLERY <i class="fa-solid fa-angle-up sub_icon"></i></a>
+                <li><a href="/gallery"  className='me-5'>GALLERY <i class="fa-solid fa-angle-up sub_icon"></i></a>
                   {/* <ul className="submenu">
                     <li><a href="#">EVENT</a></li>
                     <li><a href="#">FUNCTION</a></li>
                   </ul> */}
                 </li>
-                <li><a href="/about" target='_blank' className='me-5'>ABOUT US <i class="fa-solid fa-angle-up sub_icon"></i> </a>
+                <li><a href="/about"  className='me-5'>ABOUT US <i class="fa-solid fa-angle-up sub_icon"></i> </a>
                   {/* <ul className="submenu">
                     <li><a href="#">KNOW US</a></li>
                     <li><a href="#">PLACEMENT PARTNERS</a></li>
                   </ul> */}
                 </li>
-                <li><a href="/blog" target='_blank' className="me-5">BLOG<i class="fa-solid fa-angle-up sub_icon"></i></a></li>
-                <li><a href="/contact" target='_blank' className='me-5'>CONTACT<i class="fa-solid fa-angle-up sub_icon"></i></a></li>
+                <li><a href="/blog"  className="me-5">BLOG<i class="fa-solid fa-angle-up sub_icon"></i></a></li>
+                <li><a href="/contact" className='me-5'>CONTACT<i class="fa-solid fa-angle-up sub_icon"></i></a></li>
               </ul>
             </div>
             <div className="col-auto d-lg-none mt-2 ">

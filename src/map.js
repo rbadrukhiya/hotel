@@ -2,10 +2,7 @@ function Map() {
     return (
         <>
             <div className="our_location">
-
-
                 <div className="container ">
-
                     <div className="row logo">
                         <div className="col-12  text-center display-5 mt-5 ">
                             <b><i>OUR LOCATION</i></b>
